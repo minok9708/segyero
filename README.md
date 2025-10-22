@@ -1,2 +1,2 @@
 # segyero
-segyero church homepagea
+segyero church homepage
